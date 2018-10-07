@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>demo</name>
-    <description>Demo new featires of java 9,10, and 11</description>
+    <description>Demo new features of java 9,10, and 11</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
